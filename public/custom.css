@@ -1,0 +1,174 @@
+#titleimg {
+width:100%;
+height:auto;
+}
+.hide {
+display:none;
+visability: hidden;
+}
+#top-nav {
+background-color: #fff;
+}
+#top-nav ul {
+text-align:center;
+}
+#top-nav ul li {
+margin: 0 3em;
+}
+#top-nav ul li a {
+color:black;
+line-height:2em;
+margin: 0.5em;
+}
+#top-nav ul li a:hover {
+color:red;
+}
+body {
+
+background-color: gray;
+}
+#form {
+background-color: White;
+display: block;
+height: 75%;
+width: 75%;
+margin-top: 3em;
+margin-bottom: 3em;
+padding: 2em;
+}
+.cen {
+	margin-left: auto;
+	margin-right: auto; 
+	display:block;
+}
+.centext {
+text-align:center;
+
+}
+.cendiv {
+height:100%;
+width:50%;
+}
+#form2 {
+text-align:center;
+height:90%;
+width:75%;
+margin-left: auto;
+margin-right: auto; 
+display:inline-block;
+}
+#form2 label {
+margin-bottom: 1em;
+margin-top: 1em;
+text-align:left; 
+}
+#form2 input {
+margin-bottom: 2em;
+width: 75%;
+}
+#conbut {
+width: 30%;
+text-align:right;
+}
+.infob {
+background-color: black;
+color: white;
+}
+.infow {
+background-color: white;
+color: black;
+}
+.infodiv {
+display:block;
+width:100%;
+padding: 2em;
+}
+.infocont {
+display:block;
+width:100%;
+min-height:250px;
+padding: 1em;
+margin: 1em;
+}
+.profile {
+margin-left: 0.5em;
+height:200px;
+width: auto;
+float: right;
+display: inline-block;
+
+}
+.texta {
+display: inline-block;
+}
+#vid1 {
+width: 100%;
+height: 500px;
+}
+#vidhold {
+width: 100%;
+}
+.readm {
+margin: 1em;
+padding:1em;
+display: inline-block;
+text-decoration:none;
+}
+.readm:hover {
+color:red;
+text-decoration:none;
+}
+.guides {
+width: 75%;
+margin-top: 2em;
+margin-bottom: 2em;
+padding:1em;
+background-color: white;
+}
+.guides a {
+background-color: black;
+color:white;
+margin: 1em;
+padding:1em;
+
+text-decoration:none;
+}
+.guides a:hover {
+color:red;
+text-decoration:none;
+}
+.guides iframe {
+width:100%;
+height:50em;
+}
+.cinfo {
+background-color: white;
+color: black;
+width: 100%;
+padding: 2em;
+}
+.clogout {
+background-color: black;
+color: white;
+width: 100%;
+padding: 2em;
+text-align: center;
+}
+#logform {
+background-color: White;
+display: block;
+height: 40em;
+width: 50%;
+margin-top: 5em;
+margin-bottom: 5em;
+padding: 2em;
+}
+.shopinfo {
+text-align: center;
+background-color: gray;
+width: 90%;
+height: 10em;
+padding: 7em;
+margin-top: 10em;
+margin-bottom:10em;
+}
